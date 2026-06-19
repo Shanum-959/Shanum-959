@@ -1,6 +1,6 @@
 # Hi, I'm Shanum Shahzad
 
-Computer Science student passionate about **Machine Learning, Data Science, and Web Development**. I enjoy building real-world projects that solve practical problems — from health-tech ML systems to full-stack web applications.
+Computer Science student passionate about **Machine Learning, Data Science, and Web Development**. I enjoy building real-world projects that solve practical problems  from health-tech ML systems to full-stack web applications.
 
 BS Computer Science  University of South Asia, Lahore
 Currently exploring: Machine Learning, Data Science, Compiler Theory, Computer Architecture
