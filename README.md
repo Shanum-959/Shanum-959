@@ -1,43 +1,41 @@
-# Hi, I'm Shanum Shahzad
+# Shanum Shahzad — Data Scientist & Full‑Stack Developer
 
-Computer Science student passionate about **Machine Learning, Data Science, and Web Development**. I enjoy building real-world projects that solve practical problems  from health-tech ML systems to full-stack web applications.
+✉️ [shanumshahzad01@gmail.com](mailto:shanumshahzad01@gmail.com) · 📞 [+92 328 662 7854](tel:+923286627854) · 🐙 [GitHub](https://github.com/Shanum-959) · 🔗 [LinkedIn](https://www.linkedin.com/in/shanum-shahzad)
 
-**BS Computer Science**  University of South Asia, Lahore
+About
+------
+I am a Computer Science undergraduate (CGPA 3.6) focused on applied machine learning and production‑ready web systems. I build end‑to‑end ML pipelines (data collection → feature engineering → model training → evaluation → deployment) and production‑style Django apps. My Parkinson’s Disease detection project demonstrates reproducible ML with high validation performance; I also design relational schemas and full‑stack demos to show system thinking and deployment readiness.
 
-**Currently exploring:** Machine Learning, Data Science, Compiler Theory, Computer Architecture
+Featured Projects
+-----------------
+- Parkinson’s Disease Detection System — https://github.com/Shanum-959/parkinson-disease-project  
+  Built an end‑to‑end ML pipeline from audio feature extraction (librosa/pydub) and clinical data to model training and evaluation (scikit‑learn). Includes reproducible notebooks, serialized models and a Django demo. Key result: GradientBoosting/ensemble ≈ 93% validation accuracy.
 
-**Location:** Lahore, Pakistan
+- My Software House — https://github.com/Shanum-959/my_software_house  
+  Modular, production‑oriented Django platform (REST APIs, admin & client portals, media handling). Demonstrates full‑stack development, API design and deployment readiness.
 
----
+- CacheIQ — Cache Replacement Policy Simulator — https://github.com/Shanum-959/CacheIQ-Simulator  
+  Simulator for LRU/FIFO/LFU/Clock plus ML‑driven policies, with workload replay and metric collection for comparative evaluation; Streamlit demo for visualization.
 
-### What I'm Working On
+Quick Skills Snapshot
+---------------------
+- Programming: Python, C++  
+- ML / Data: NumPy, Pandas, scikit‑learn, librosa, pydub, joblib, matplotlib, seaborn, matplotlib (visualization & analysis)  
+- Web / APIs: Django, Django REST Framework, Flask (basic)  
+- Databases: SQL, MySQL, PostgreSQL, ERD & schema design  
+- Tools: Git, Docker (recommended), Streamlit, Gunicorn, psycopg2
 
-- **[Parkinson's Disease Detection System](https://github.com/Shanum-959/parkinson-disease-project)** — ML-based disease classification using voice analysis and clinical data, built with 6 different classifiers and a Flask web app.
-- **[My Software House](https://github.com/Shanum-959/my_software_house)** — A full-featured Django web platform with blog, careers, newsletter, and client portal modules.
-- **CacheIQ** — A Streamlit-based cache replacement policy simulator supporting LRU, FIFO, LFU, Clock, and ML-powered policies. *(Coming soon to GitHub)*
+What recruiters will find here (and should expect)
+--------------------------------------------------
+Each project repo includes a clear README, runnable notebooks or demo, requirements.txt, model artifacts (where applicable), evaluation metrics and deployment/demo instructions (Django/Streamlit). This repo is the single link to verify reproducibility, performance numbers and contact details — please view project READMEs for full evidence.
 
----
+How to evaluate my work quickly
+-------------------------------
+- Open the project README for purpose, architecture and results.  
+- Check `requirements.txt`, notebooks, `saved_model`/`joblib` files and quick start (run) instructions.  
+- Look for evaluation metrics (confusion matrix, accuracy, AUC) and at least one demo (Django/Streamlit/Flask).  
+- For system projects, review ERD/SQL scripts and evidence of realistic data modeling.
 
-### Tech Stack
-
-**Languages:** Python, C++, JavaScript (Basic)
-
-**Web:** HTML, CSS, Flask (Basic), Django
-
-**Data Science / ML:** NumPy, Pandas, Scikit-learn
-
-**Databases:** DBMS (Basic)
-
-**Tools:** Git, GitHub, Streamlit
-
----
-
-### GitHub Stats
-
-![Shanum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanum-959&show_icons=true&theme=default)
-
----
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/shanum-shahzad-a6b130296/) · [Email](mailto:shanumshahzad01@gmail.com)
+Contact / Next steps
+--------------------
+Email me at [shanumshahzad01@gmail.com](mailto:shanumshahzad01@gmail.com) or message on LinkedIn (https://www.linkedin.com/in/shanum-shahzad) to request a live demo, code walkthrough, or tailored version of my CV for a specific role.
