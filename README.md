@@ -1,6 +1,11 @@
 # Shanum Shahzad — Data Scientist & Full‑Stack Developer
 
-✉️ [shanumshahzad01@gmail.com](mailto:shanumshahzad01@gmail.com) · 📞 [+92 328 662 7854](tel:+923286627854) · 🐙 [GitHub](https://github.com/Shanum-959) · 🔗 [LinkedIn](https://www.linkedin.com/in/shanum-shahzad)
+<p align="center">
+  <a href="mailto:shanumshahzad01@gmail.com"><img src="https://img.shields.io/badge/Email-2E7D74?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/923286627854"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/shanum-shahzad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Shanum-959"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 About
 ------
@@ -28,7 +33,6 @@ Featured Projects
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![librosa](https://img.shields.io/badge/librosa-2E7D74?style=for-the-badge)
-![pydub](https://img.shields.io/badge/pydub-2E7D74?style=for-the-badge)
 ![joblib](https://img.shields.io/badge/joblib-2E7D74?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
@@ -40,7 +44,6 @@ Featured Projects
 
 **Databases**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 What recruiters will find here (and should expect)
