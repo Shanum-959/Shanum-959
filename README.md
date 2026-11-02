@@ -17,12 +17,31 @@ Featured Projects
 - CacheIQ — Cache Replacement Policy Simulator — https://github.com/Shanum-959/CacheIQ-Simulator  
   Simulator for LRU/FIFO/LFU/Clock plus ML‑driven policies, with workload replay and metric collection for comparative evaluation; Streamlit demo for visualization.
 
-Quick Skills Snapshot
----------------------
-- Programming: Python, C++  
-- ML / Data: NumPy, Pandas, scikit‑learn, librosa, pydub, joblib, matplotlib, seaborn, matplotlib (visualization & analysis)  
-- Web / APIs: Django, Django REST Framework, Flask (basic)  
-- Databases: SQL, MySQL, PostgreSQL, ERD & schema design  
+## ⚡ Quick Skills Snapshot
+
+**Programming**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**ML / Data**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![librosa](https://img.shields.io/badge/librosa-2E7D74?style=for-the-badge)
+![pydub](https://img.shields.io/badge/pydub-2E7D74?style=for-the-badge)
+![joblib](https://img.shields.io/badge/joblib-2E7D74?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+
+**Web / APIs**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 What recruiters will find here (and should expect)
 --------------------------------------------------
