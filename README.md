@@ -1,5 +1,4 @@
-# Shanum Shahzad — Data Scientist & Full‑Stack Developer
-
+# Shanum Shahzad — Computer Science Student | Data & Machine Learning
 <p align="center">
   <a href="mailto:shanumshahzad01@gmail.com"><img src="https://img.shields.io/badge/Email-2E7D74?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://wa.me/923286627854"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
@@ -23,7 +22,7 @@ I'm currently looking for internships in Data Analytics and Machine Learning.
 Featured Projects
 -----------------
 - Parkinson’s Disease Detection System — https://github.com/Shanum-959/parkinson-disease-project  
-  Built an end‑to‑end ML pipeline from audio feature extraction (librosa/pydub) and clinical data to model training and evaluation (scikit‑learn). Includes reproducible notebooks, serialized models and a Django demo. Key result: GradientBoosting/ensemble ≈ 93% validation accuracy.
+  Built an end‑to‑end ML pipeline from audio feature extraction (librosa/pydub) and clinical data to model training and evaluation (scikit‑learn). Includes reproducible notebooks, serialized models and a Django demo. Key result: GradientBoosting/ensemble ≈ 80% validation accuracy.
 
 - My Software House — https://github.com/Shanum-959/my_software_house  
   Modular, production‑oriented Django platform (REST APIs, admin & client portals, media handling). Demonstrates full‑stack development, API design and deployment readiness.
@@ -63,7 +62,7 @@ How to evaluate my work quickly
 -------------------------------
 - Open the project README for purpose, architecture and results.  
 - Check `requirements.txt`, notebooks, `saved_model`/`joblib` files and quick start (run) instructions.  
-- Look for evaluation metrics (confusion matrix, accuracy, AUC) and at least one demo (Django/Streamlit/Flask).  
+- Look for evaluation metrics (confusion matrix, accuracy) and at least one demo (Django/Streamlit/Flask).  
 - For system projects, review ERD/SQL scripts and evidence of realistic data modeling.
 
 Contact / Next steps
