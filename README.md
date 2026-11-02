@@ -9,7 +9,16 @@
 
 About
 ------
-I am a Computer Science undergraduate focused on applied machine learning and production‑ready web systems. I build end‑to‑end ML pipelines (data collection → feature engineering → model training → evaluation → deployment) and production‑style Django apps. My Parkinson’s Disease detection project demonstrates reproducible ML with high validation performance; I also design relational schemas and full‑stack demos to show system thinking and deployment readiness.
+I'm a Computer Science undergraduate focused on data analytics and machine learning.
+
+I enjoy building complete ML workflows: cleaning data, engineering features, training and comparing models, and presenting results through simple web apps.
+
+**What I've built:**
+- **Parkinson's Disease Detection:** compared six classification models (best: Gradient Boosting, ~80% accuracy) and built a Django app so non-technical users can see predictions.
+- **CacheIQ:** a Streamlit simulator that compares LRU, FIFO, LFU and Clock cache policies against an ML-based policy.
+- **Database projects:** normalized SQL schemas (ERD) for banking and restaurant systems, with reporting queries.
+
+I'm currently looking for internships in Data Analytics and Machine Learning.
 
 Featured Projects
 -----------------
