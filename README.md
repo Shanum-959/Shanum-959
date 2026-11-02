@@ -23,7 +23,6 @@ Quick Skills Snapshot
 - ML / Data: NumPy, Pandas, scikit‑learn, librosa, pydub, joblib, matplotlib, seaborn, matplotlib (visualization & analysis)  
 - Web / APIs: Django, Django REST Framework, Flask (basic)  
 - Databases: SQL, MySQL, PostgreSQL, ERD & schema design  
-- Tools: Git, Docker (recommended), Streamlit, Gunicorn, psycopg2
 
 What recruiters will find here (and should expect)
 --------------------------------------------------
