@@ -4,7 +4,7 @@
 
 About
 ------
-I am a Computer Science undergraduate (CGPA 3.6) focused on applied machine learning and production‑ready web systems. I build end‑to‑end ML pipelines (data collection → feature engineering → model training → evaluation → deployment) and production‑style Django apps. My Parkinson’s Disease detection project demonstrates reproducible ML with high validation performance; I also design relational schemas and full‑stack demos to show system thinking and deployment readiness.
+I am a Computer Science undergraduate focused on applied machine learning and production‑ready web systems. I build end‑to‑end ML pipelines (data collection → feature engineering → model training → evaluation → deployment) and production‑style Django apps. My Parkinson’s Disease detection project demonstrates reproducible ML with high validation performance; I also design relational schemas and full‑stack demos to show system thinking and deployment readiness.
 
 Featured Projects
 -----------------
